@@ -1,0 +1,22 @@
+{
+  "name": "heroku-docker",
+  "version": "1.0.0",
+  "description": "An example for heroku-docker app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku",
+    "node",
+    "docker"
+  ],
+  "author": "@Jastrzebowski",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-stage-0": "^6.1.2"
+  }
+}
